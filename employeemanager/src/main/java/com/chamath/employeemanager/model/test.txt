@@ -1,0 +1,28 @@
+{
+    "email": "chamath@gmail.com",
+    "imageUrl": "https://www.bootdey.com/app/webroot/img/Content/avatar/avatar1.png",
+    "jobTitle": "Backend",
+    "name": "Chamath Nimnaada",
+    "phone": "0719007474"
+}
+{
+    "email": "sajeewa@gmail.com",
+    "imageUrl": "https://www.bootdey.com/app/webroot/img/Content/avatar/avatar2.png",
+    "jobTitle": "UI/UX",
+    "name": "Sajeewa Priyankara",
+    "phone": "0718059900"
+}
+{
+    "email": "methuka@gmail.com",
+    "imageUrl": "https://www.bootdey.com/app/webroot/img/Content/avatar/avatar3.png",
+    "jobTitle": "Pyhton",
+    "name": "Methuka Priyankara",
+    "phone": "0717419900"
+}
+{
+    "email": "kuncha@gmail.com",
+    "imageUrl": "https://www.bootdey.com/app/webroot/img/Content/avatar/avatar4.png",
+    "jobTitle": "Java",
+    "name": "Kunchana Rahul",
+    "phone": "0112022900"
+}
